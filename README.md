@@ -1,7 +1,7 @@
 Objective:
 Build a weather dashboard using React that displays the current weather for the user’s searched city.
 
-# Live: https://sylviaprabudy.github.io/weather-dashboard/
+# Live: https://myweatherdashboard.netlify.app/
 Features:
 City Search:
 Allow users to search for weather data by typing in a city name.
